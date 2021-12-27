@@ -1,1 +1,1 @@
-web: node app.js
+web: vendor/bin/heroku-apache2
