@@ -1,5 +1,6 @@
-<html>
-    <head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" href="https://freefiremobile-a.akamaihd.net/ffwebsite/images/freefire32-2.ico" type="image/x-icon" />
         <link rel="shortcut icon" href="https://freefiremobile-a.akamaihd.net/ffwebsite/images/freefire16-2.ico" type="image/x-icon" />
